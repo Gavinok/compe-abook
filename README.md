@@ -2,6 +2,8 @@
 
 Provides compe completion for email addresses in abook.
 
+![demo](images/compe-abook.gif)
+
 ## Install
 
 You also need to install [abook](https://abook.sourceforge.io/) and store some addresses in it.
